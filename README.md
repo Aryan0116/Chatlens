@@ -4,7 +4,7 @@ ChatLens is a **privacy-first web app** that helps you analyze your exported Wha
 It transforms plain chat text into **beautiful visualizations and AI-powered insights** — giving you a deeper understanding of conversations, interaction patterns, and overall chat health.  
 
 🔗 **Portfolio:** [aryan-singh16.vercel.app](https://aryan-singh16.vercel.app/)  
-🔗 **Demo:** [Chatlens.vercel.app](https://chatlens.vercel.app/)  
+🔗 **Demo:** [Chatlens.vercel.app](https://chatlensai.vercel.app/)  
 
 ---
 
